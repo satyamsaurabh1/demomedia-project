@@ -1102,4 +1102,4 @@ Error generating stack: `+e.message+`
             padding: var(--sp-lg);
           }
         }
-      `})]})}function sn(){return(0,A.jsx)(on,{children:(0,A.jsxs)(_t,{children:[(0,A.jsx)(ht,{path:`/`,element:(0,A.jsx)(Gt,{})}),(0,A.jsx)(ht,{path:`/watch/:id`,element:(0,A.jsx)(Yt,{})}),(0,A.jsx)(ht,{path:`/upload`,element:(0,A.jsx)(Xt,{})}),(0,A.jsx)(ht,{path:`/profile`,element:(0,A.jsx)(Zt,{})}),(0,A.jsx)(ht,{path:`/history`,element:(0,A.jsx)(Qt,{})})]})})}g.createRoot(document.getElementById(`root`)).render((0,A.jsx)(v.StrictMode,{children:(0,A.jsx)(Ot,{children:(0,A.jsx)(sn,{})})}));
+      `})]})}function sn(){return(0,A.jsx)(on,{children:(0,A.jsxs)(_t,{children:[(0,A.jsx)(ht,{path:`/`,element:(0,A.jsx)(Gt,{})}),(0,A.jsx)(ht,{path:`/watch/:id`,element:(0,A.jsx)(Yt,{})}),(0,A.jsx)(ht,{path:`/upload`,element:(0,A.jsx)(Xt,{})}),(0,A.jsx)(ht,{path:`/profile`,element:(0,A.jsx)(Zt,{})}),(0,A.jsx)(ht,{path:`/history`,element:(0,A.jsx)(Qt,{})})]})})}g.createRoot(document.getElementById(`root`)).render((0,A.jsx)(v.StrictMode,{children:(0,A.jsx)(Ot,{basename:`/demomedia-project/`,children:(0,A.jsx)(sn,{})})}));
